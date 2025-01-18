@@ -51,9 +51,3 @@ I'm a versatile programmer with expertise in developing **mobile** and **web app
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cvs261&layout=compact&theme=radical)
 
 ---
-
-## Let's Connect
-
-Feel free to reach out or explore my projects:
-- 💼 [LinkedIn](www.linkedin.com/in/victor-ștefan-constantin-669699173)
-- 📧 [Email](mailto:vconstantin261@gmail.com)
