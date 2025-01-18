@@ -55,5 +55,5 @@ I'm a versatile programmer with expertise in developing **mobile** and **web app
 ## Let's Connect
 
 Feel free to reach out or explore my projects:
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 💼 [LinkedIn](www.linkedin.com/in/victor-ștefan-constantin-669699173)
 - 📧 [Email](mailto:vconstantin261@gmail.com)
